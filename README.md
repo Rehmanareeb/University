@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rehmanareeb
--  I’m interested in why are people afraid to die? and also in software side of the computer world.
-- 🌱 I’m currently learning C.
+- 👋 Hi, 
+This is repository that contains all the code of the second sememseter of all the labs(4 onwards) and the OOP class assingment.
+\
 
 
 
