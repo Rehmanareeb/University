@@ -1,0 +1,5 @@
+The basics that you should know before the tasks are as follows:
+->Classes and it's types.
+->Constructors ans it's types.
+->Over loading a construtor and it's uses.
+->*How you can give up on coding and live a peaceful life*
