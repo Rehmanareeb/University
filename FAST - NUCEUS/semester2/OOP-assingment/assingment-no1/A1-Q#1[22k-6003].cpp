@@ -50,7 +50,7 @@ class Room
 
             cout<< "Both the radiators are on. Enjoy the heat.";
         }
-
+        //checking if the number of radiators are equal to 1.
         if (num_radiators == 1) {
             cout << "The radiator has been added" << endl;
             radiator1.radiator_status_is_on = true;
@@ -84,6 +84,7 @@ int main() {
     radiator1.radiator_id = extractLastThreeDigits(student_id, value);
     cout << "Radiator ID of radiator 1: " << radiator1.radiator_id << endl;
 
+    //Adding the number 15 to the id of the second radiator as asked in the question.
     radiator2.radiator_id = extractLastThreeDigits(student_id, value) + 15;
     cout << "Radiator ID of radiator 2: " << radiator2.radiator_id << endl;
 
