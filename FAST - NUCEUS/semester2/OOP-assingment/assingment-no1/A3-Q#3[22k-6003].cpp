@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//fu`nction to extract the third last digit of the id
+//function to extract the third last digit of the id
 int extractLastThreeDigits(std::string id, int value) {
     value = std::stoi(id.substr(id.size() - 3));
     return value;
