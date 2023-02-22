@@ -1,5 +1,6 @@
 - 👋 Hi, 
-This is repository that contains all the code of the second sememseter of all the labs(4 onwards) and the OOP class assingment.
+This is the repository that contains all the programs of the second sememseter of all the labs(4 onwards) and the OOP class assingment.
+->EVEN IF YOU COPY. DO CHANGE THE NAME OF THE VARIABLES AND UNDERSTAND THE CODE RATHER THEN JUST COPY PASTING IT.
 
 
 
