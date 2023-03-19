@@ -1,11 +1,9 @@
 UNIVERSITY:
 
-This repository contains all the labs and assignments completed by [your name] for [course name and number].
-Labs
+This repository contains all the labs and assignments completed by 22k-6003 for Object-oriented-programming.
+Labs:
 
-    Lab 4: Focused on Constructors.
-    Lab 5: Use of static and const.
-    Lab 6: Use of inline,const,static Functions.
+  *Work in progress will be addeded soon enough*
     
    
     
