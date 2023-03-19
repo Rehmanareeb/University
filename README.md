@@ -9,7 +9,8 @@ Labs:
     
 
 Assignments
-Assignment 1:Basics of OOP.[Assignment 2](https://github.com/Rehmanareeb/University/tree/main/): Real world problems of OOP and there implementation.
+Assignment 1:Basics of OOP.
+[Assignment 2](https://github.com/Rehmanareeb/University/tree/main/): Real world problems of OOP and there implementation.
     
     
 
