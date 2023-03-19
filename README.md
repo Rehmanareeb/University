@@ -10,7 +10,7 @@ Labs:
 
 Assignments
 
-    Assignment 1(./assingment-no1):Basics of OOP.
+    [Assignment 1](./assingment-no1):Basics of OOP.
     Assignment 2: Real world problems of OOP and there implementation.
     
     
