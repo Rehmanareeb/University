@@ -10,7 +10,7 @@ Labs:
     
 
 Assignments
->[Assignment 1](https://github.com/Rehmanareeb/University/tree/main/FAST%20-%20NUCEUS/semester2/OOP-assingment/assingment-no1):Basics of OOP.
+>[Assignment 1](https://github.com/Rehmanareeb/University/tree/main/FAST%20-%20NUCEUS/semester2/OOP-assingment/Assignment-1):Basics of OOP.
 >[Assignment 2](https://github.com/Rehmanareeb/University/tree/main/FAST%20-%20NUCEUS/semester2/OOP-assingment/Assingment-2): Real world problems of OOP and there implementation.
     
     
